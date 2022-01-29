@@ -1,6 +1,6 @@
 
 def try_me():
-    return print("This function does absolutely nothing.")
+    print("This function does absolutely nothing.")
 
 
 if __name__ == '__main__':
